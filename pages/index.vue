@@ -1,5 +1,6 @@
 <template>
   <section class="container">
+    
     <div
       class="flex lg:flex-row flex-col-reverse justify-between lg:pt-14 lg:pb-10 lg:px-20 px-10"
     >
@@ -32,7 +33,7 @@
 
     <hr />
 
-    <div class="bg-darkblue py-10 flex justify-between lg:flex-row flex-col lg:px-20 px-10">
+    <div class="bg-darkblue py-10 mb-20 flex justify-between lg:flex-row flex-col lg:px-20 px-10">
       <div class="lg:w-1/4">
         <h4 class="text-4xl text-bold pb-2 text-purple">I write stuffs</h4>
         <p>Frontend development, <br> Technical Writing,<br> community building,<br> and personal branding.</p>
@@ -78,6 +79,19 @@
         </button>
       </div>
     </div>
+
+    <hr>
+
+    <Newsletter/>
+
+    
+
+    
+
+
+    
+
+
   </section>
 </template>
  
