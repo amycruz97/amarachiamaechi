@@ -1,8 +1,6 @@
 <template>
   <footer class="my-20 text-center">
-    <h5 class="text-purple text-2xl font-bold">
-      (c) Amarachi Amaechi, Lagos, Nigeria
-    </h5>
+   
     <div class="flex justify-center py-4">
       <svg
         width="43"
@@ -56,6 +54,11 @@
           fill="#6C00FF"
         />
       </svg>
+
+      
     </div>
+     <h5 class="text-purple text-xl font-bold">
+      (c) Amarachi Amaechi, Lagos, Nigeria
+    </h5>
   </footer>
 </template>

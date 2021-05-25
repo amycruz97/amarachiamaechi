@@ -1,7 +1,7 @@
 <template>
     <div class="container">
 
-        <nav class="navbar text-white w-screen py-4 lg:px-20 px-10 flex items-center justify-between flex-wrap border-2">
+        <nav class="navbar text-white w-screen py-4 lg:px-20 px-10 flex items-center justify-between flex-wrap shadow-xl">
             <div class="flex items-center flex-no-shrink text-white mr-6">
                 <nuxt-link to="/">
                         <img src="@/assets/images/logo.svg" alt="my logo" class="w-8 rounded-full">

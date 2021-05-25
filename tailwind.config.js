@@ -38,8 +38,10 @@ module.exports = {
 
             },
             textColor: {
-                
-                
+                 'purple': '#6C00FF',
+                'lightpurple':'#E5D9F6;',
+                'darkblue':'#192734'
+
 
 
             },
@@ -51,7 +53,9 @@ module.exports = {
             },
             borderColor: theme => ({
                 ...theme('colors'),
-                
+                'purple': '#6C00FF',
+                'lightpurple':'#E5D9F6;',
+                'darkblue':'#192734'
                 
             }),
         },
