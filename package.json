@@ -20,6 +20,6 @@
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
     "@nuxtjs/fontawesome": "^1.1.2",
     "@nuxtjs/tailwindcss": "^4.0.1",
-    "postcss": "^8.2.8"
+    "postcss": "^8.3.4"
   }
 }
