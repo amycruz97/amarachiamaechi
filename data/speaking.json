@@ -1,0 +1,93 @@
+{
+	
+	"past": [
+		{
+			"id": "1",
+			"title": "Breaking into the Tech Ecosystem",
+			"date": "April, 6 2019",
+			"event": "Forloop Enugu",
+			"link": "https://speakerdeck.com/amycruz97/breaking-into-the-tech-ecosystem"
+        },
+        {
+			"id": "2",
+			"title": "Sharing Valuable Knowledge: A Recipe for Building your Influence in the Tech Space",
+			"date": "October, 12 2019",
+			"event": "Concatenate Conference",
+			"link": "https://www.youtube.com/watch?v=-Ez53J0vj9c&feature=youtu.be"
+		},
+		{
+			"id": "3",
+			"title": "Becoming a Stand Out Open Source Contributor",
+			"date": "February, 22 2020",
+			"event": "Open Source Festival 2020",
+			"link": "https://speakerdeck.com/amycruz97/becoming-a-stand-out-contributor"
+		}
+		,
+		{
+			"id": "4",
+			"title": "Effective Networking: The Right Way",
+			"date": "March, 5 2020",
+			"event": "Vue Vixen Day US 2020",
+			"link": "https://speakerdeck.com/amycruz97/effective-networking-the-right-way"
+		},
+		{
+			"id": "5",
+			"title": "Building with Accessibility in mind",
+			"date": "November, 5 2020",
+			"event": "Kss at zedcrest capital",
+			"link": "https://speakerdeck.com/amycruz97/building-with-accessibility-in-mind"
+		}
+		,
+		{
+			"id": "6",
+			"title": "Front-End Development Roadmap",
+			"date": "January, 23 2021",
+			"event": "Vuejs Nigeria",
+			"link": "https://www.youtube.com/watch?v=ZM2ur1IFBz8"
+		}
+		,
+		{
+			"id": "7",
+			"title": "Leveraging the Power of Social Media as a Developer",
+			"date": "February, 21 2021",
+			"event": "Developer in Vogue 2021",
+			"link": "https://speakerdeck.com/amycruz97/leveraging-the-power-of-social-media-as-a-developer"
+		},
+		{
+			"id": "8",
+			"title": "Building with Accessibility in mind",
+			"date": "March, 8 2021",
+			"event": "Techknowday 2021",
+			"link": "https://www.youtube.com/watch?v=5xXQ4QJsZSE"
+		}
+		,
+		{
+			"id": "9",
+			"title": "My Journey into Tech",
+			"date": "March, 13 2021",
+			"event": "Techrity #Iwd2021",
+			"link": "https://speakerdeck.com/amycruz97/my-tech-journey"
+		},
+		
+		{
+			"id": "10",
+			"title": "Business case for digital Accessibility",
+			"date": "May, 4 2021",
+			"event": "Minnesota Developers Conference 2021",
+			"link": "https://ilmservice.sharepoint.com/mdc/Shared%20Documents/Forms/AllItems.aspx?id=%2Fmdc%2FShared%20Documents%2F2021%2Fvideos%2FMDC%202%2E9%20%2D%20Amarachi%20Amaechi%20%2D%20The%20Business%20Case%20for%20Digital%20Accessibility%2Emp4&parent=%2Fmdc%2FShared%20Documents%2F2021%2Fvideos&p=true&originalPath=aHR0cHM6Ly9pbG1zZXJ2aWNlLnNoYXJlcG9pbnQuY29tLzp2Oi9nL21kYy9FWEV1UXdZaWtYWkZxMU5hZkpWZXNIVUJUaUhld3pZVkMtTUN2eTZQeTVuTjVRP3J0aW1lPXRRNFNpVWxHMlVn"
+		}
+		,
+		{
+			"id": "11",
+			"title": "Productivity Hacks for Developers",
+			"date": "May, 4 2021",
+			"event": "Minnesota Developers Conference 2021",
+			"link": "https://ilmservice.sharepoint.com/mdc/Shared%20Documents/Forms/AllItems.aspx?id=%2Fmdc%2FShared%20Documents%2F2021%2Fvideos%2FMDC%205%2E12%20%2D%20Amarachi%20Amaechi%20%2D%20Productivity%20hacks%20for%20software%20developers%2Emp4&parent=%2Fmdc%2FShared%20Documents%2F2021%2Fvideos&p=true&originalPath=aHR0cHM6Ly9pbG1zZXJ2aWNlLnNoYXJlcG9pbnQuY29tLzp2Oi9nL21kYy9FV1lteURaaEdxdEJwR2FXdWp3MW1TY0JRNkVXVVI3MEVSV2pSZmp3a1BSdkNnP3J0aW1lPWlmd2loa2xHMlVn"
+		}
+
+		
+		
+		
+		
+	]
+}

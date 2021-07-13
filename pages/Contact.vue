@@ -3,7 +3,7 @@
     <h2 class="text-purple font-bold text-6xl text-center">Contact Me</h2>
     <p class="text-white text-center my-10 lg:mx-60 mx-8">
       Hey there. If you are looking to reach out to me you can use this form
-      although in general you will probably reach me quicker on Twitter or LinkedIn.
+      although in general you will probably reach me quicker on <a href="https://twitter.com/AmarachiAmaechi" class="hover:text-purple">Twitter</a> or <a href="https://www.linkedin.com/in/amaechi-amarachi/" class="hover:text-purple">Linkedin</a>
     </p>
 
     <form action="" method=”POST” class="mx-auto">

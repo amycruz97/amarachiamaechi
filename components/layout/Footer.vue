@@ -156,7 +156,7 @@
       </a>
     </div>
     <h5 class="text-purple text-xl font-bold">
-      &#169; Amarachi Amaechi, Lagos Nigeria
+      &#169; Amarachi Amaechi 2021
     </h5>
   </footer>
 </template>

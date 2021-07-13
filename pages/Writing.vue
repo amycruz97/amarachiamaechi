@@ -19,227 +19,48 @@
           />
         </svg>
       </div>
-      <div class=" text-white ">100 Articles</div>
+      <div class=" text-white font-bold pr-5 mt-2">100 Articles</div>
     </div>
 
-    <div class="flex justify-center  ">
-      <div
-        class="bg-purple text-white lg:w-1/2 w-full lg:h-72 h-80 pl-5  px-5 pt-5 rounded-lg mt-5 my-5  hover:bg-lightpurple hover:text-purple"
-      >
-        <h4 class="text-2xl font-bold text-white mt-5 hover:text-purple">
-          Buddy vs Travis CI: A Detailed Comparison
-        </h4>
-        <p class="mt-6 px-1">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
-          dignissimos aliquam similique animi illum, cum deserunt cupiditate
-          eveniet itaque nesciunt!
-        </p>
-        <div class="flex justify-between lg:mt-20 mt-8">
-          <span>5 min read</span>
-          <span>May 20 2021</span>
-        </div>
-      </div>
+    <div class="flex lg:flex-row flex-col justify-between lg:px-4 mb-10 mt-10">
+     
+     <div class="lg:w-5/12 w-full  shadow-3xl mb-20 " id="article">
+       <img src="@/assets/images/cover-img.jpeg" alt="">
+       <h3 class="lg:text-4xl text-3xl font-bold  my-10 lg:px-5 px-1 text-center text-white">Getting started with Open Source Contribution</h3>
+       <p class="text-gray-200 lg:px-4 px-3 pb-5" >Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt ut, similique atque ad optio temporibus magni doloremque alias consequuntur, tenetur modi repellendus explicabo! Debitis ipsum ullam velit eum, ut recusandae provident ducimus nobis repellat fugit quia, natus labore dolore obcaecati sapiente consectetur aspernatur accusamus nostrum alias quo facere libero inventore.</p>
+     </div>
 
-      <div
-        class="bg-purple text-white lg:w-1/2 w-full lg:h-72 h-80 pl-5 ml-10 px-5 pt-5 rounded-lg mt-5 my-5  hover:bg-lightpurple hover:text-purple"
-      >
-        <h4 class="text-2xl font-bold text-white mt-5 hover:text-purple">
-          Buddy vs Travis CI: A Detailed Comparison
-        </h4>
-        <p class="mt-6 px-1">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
-          dignissimos aliquam similique animi illum, cum deserunt cupiditate
-          eveniet itaque nesciunt!
-        </p>
-        <div class="flex justify-between lg:mt-20 mt-8">
-          <span>5 min read</span>
-          <span>May 20 2021</span>
-        </div>
-      </div>
+     <div class="lg:w-5/12   shadow-3xl mb-20  " id="article">
+       <img src="@/assets/images/cover-img.jpeg" alt="">
+       <h3 class="lg:text-4xl text-2xl font-bold  my-10 px-5 text-center text-white">Getting started with Open Source Contribution</h3>
+       <p class="text-gray-200 lg:px-4 px-3 pb-5" >Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt ut, similique atque ad optio temporibus magni doloremque alias consequuntur, tenetur modi repellendus explicabo! Debitis ipsum ullam velit eum, ut recusandae provident ducimus nobis repellat fugit quia, natus labore dolore obcaecati sapiente consectetur aspernatur accusamus nostrum alias quo facere libero inventore.</p>
+     </div>
+     
     </div>
 
-    <div class="flex justify-center  ">
-      <div
-        class="bg-purple text-white lg:w-1/2 w-full lg:h-72 h-80 pl-5  px-5 pt-5 rounded-lg mt-5 my-5  hover:bg-lightpurple hover:text-purple"
-      >
-        <h4 class="text-2xl font-bold text-white mt-5 hover:text-purple">
-          Buddy vs Travis CI: A Detailed Comparison
-        </h4>
-        <p class="mt-6 px-1">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
-          dignissimos aliquam similique animi illum, cum deserunt cupiditate
-          eveniet itaque nesciunt!
-        </p>
-        <div class="flex justify-between lg:mt-20 mt-8">
-          <span>5 min read</span>
-          <span>May 20 2021</span>
-        </div>
-      </div>
+      <div class="flex lg:flex-row flex-col justify-between lg:px-4 mb-10 mt-10">
+     
+     <div class="lg:w-5/12 w-full  shadow-3xl mb-20 " id="article">
+       <img src="@/assets/images/cover-img.jpeg" alt="">
+       <h3 class="lg:text-4xl text-3xl font-bold  my-10 lg:px-5 px-1 text-center text-white">Getting started with Open Source Contribution</h3>
+       <p class="text-gray-200 lg:px-4 px-3 pb-5" >Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt ut, similique atque ad optio temporibus magni doloremque alias consequuntur, tenetur modi repellendus explicabo! Debitis ipsum ullam velit eum, ut recusandae provident ducimus nobis repellat fugit quia, natus labore dolore obcaecati sapiente consectetur aspernatur accusamus nostrum alias quo facere libero inventore.</p>
+     </div>
 
-      <div
-        class="bg-purple text-white lg:w-1/2 w-full lg:h-72 h-80 pl-5 ml-10 px-5 pt-5 rounded-lg mt-5 my-5  hover:bg-lightpurple hover:text-purple"
-      >
-        <h4 class="text-2xl font-bold text-white mt-5 hover:text-purple">
-          Buddy vs Travis CI: A Detailed Comparison
-        </h4>
-        <p class="mt-6 px-1">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
-          dignissimos aliquam similique animi illum, cum deserunt cupiditate
-          eveniet itaque nesciunt!
-        </p>
-        <div class="flex justify-between lg:mt-20 mt-8">
-          <span>5 min read</span>
-          <span>May 20 2021</span>
-        </div>
-      </div>
+     <div class="lg:w-5/12   shadow-3xl mb-20  " id="article">
+       <img src="@/assets/images/cover-img.jpeg" alt="">
+       <h3 class="lg:text-4xl text-2xl font-bold  my-10 px-5 text-center text-white">Getting started with Open Source Contribution</h3>
+       <p class="text-gray-200 lg:px-4 px-3 pb-5" >Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt ut, similique atque ad optio temporibus magni doloremque alias consequuntur, tenetur modi repellendus explicabo! Debitis ipsum ullam velit eum, ut recusandae provident ducimus nobis repellat fugit quia, natus labore dolore obcaecati sapiente consectetur aspernatur accusamus nostrum alias quo facere libero inventore.</p>
+     </div>
+     
     </div>
 
-    <div class="flex justify-center  ">
-      <div
-        class="bg-purple text-white lg:w-1/2 w-full lg:h-72 h-80 pl-5 m-5 px-5 pt-5 rounded-lg mt-5 my-5  hover:bg-lightpurple hover:text-purple"
-      >
-        <h4 class="text-2xl font-bold text-white mt-5 hover:text-purple">
-          Buddy vs Travis CI: A Detailed Comparison
-        </h4>
-        <p class="mt-6 px-1">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
-          dignissimos aliquam similique animi illum, cum deserunt cupiditate
-          eveniet itaque nesciunt!
-        </p>
-        <div class="flex justify-between lg:mt-20 mt-8">
-          <span>5 min read</span>
-          <span>May 20 2021</span>
-        </div>
-      </div>
 
-      <div
-        class="bg-purple text-white lg:w-1/2 w-full lg:h-72 h-80 pl-5 m-5 px-5 pt-5 rounded-lg mt-5 my-5  hover:bg-lightpurple hover:text-purple"
-      >
-        <h4 class="text-2xl font-bold text-white mt-5 hover:text-purple">
-          Buddy vs Travis CI: A Detailed Comparison
-        </h4>
-        <p class="mt-6 px-1">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
-          dignissimos aliquam similique animi illum, cum deserunt cupiditate
-          eveniet itaque nesciunt!
-        </p>
-        <div class="flex justify-between lg:mt-20 mt-8">
-          <span>5 min read</span>
-          <span>May 20 2021</span>
-        </div>
-      </div>
-    </div>
+      
 
-    <div class="flex justify-center  ">
-      <div
-        class="bg-purple text-white lg:w-1/2 w-full lg:h-72 h-80 pl-5 m-5 px-5 pt-5 rounded-lg mt-5 my-5  hover:bg-lightpurple hover:text-purple"
-      >
-        <h4 class="text-2xl font-bold text-white mt-5 hover:text-purple">
-          Buddy vs Travis CI: A Detailed Comparison
-        </h4>
-        <p class="mt-6 px-1">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
-          dignissimos aliquam similique animi illum, cum deserunt cupiditate
-          eveniet itaque nesciunt!
-        </p>
-        <div class="flex justify-between lg:mt-20 mt-8">
-          <span>5 min read</span>
-          <span>May 20 2021</span>
-        </div>
-      </div>
-
-      <div
-        class="bg-purple text-white lg:w-1/2 w-full lg:h-72 h-80 pl-5 m-5 px-5 pt-5 rounded-lg mt-5 my-5  hover:bg-lightpurple hover:text-purple"
-      >
-        <h4 class="text-2xl font-bold text-white mt-5 hover:text-purple">
-          Buddy vs Travis CI: A Detailed Comparison
-        </h4>
-        <p class="mt-6 px-1">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
-          dignissimos aliquam similique animi illum, cum deserunt cupiditate
-          eveniet itaque nesciunt!
-        </p>
-        <div class="flex justify-between lg:mt-20 mt-8">
-          <span>5 min read</span>
-          <span>May 20 2021</span>
-        </div>
-      </div>
-    </div>
-
-    <div class="flex justify-center  ">
-      <div
-        class="bg-purple text-white lg:w-1/2 w-full lg:h-72 h-80 pl-5 m-5 px-5 pt-5 rounded-lg mt-5 my-5  hover:bg-lightpurple hover:text-purple"
-      >
-        <h4 class="text-2xl font-bold text-white mt-5 hover:text-purple">
-          Buddy vs Travis CI: A Detailed Comparison
-        </h4>
-        <p class="mt-6 px-1">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
-          dignissimos aliquam similique animi illum, cum deserunt cupiditate
-          eveniet itaque nesciunt!
-        </p>
-        <div class="flex justify-between lg:mt-20 mt-8">
-          <span>5 min read</span>
-          <span>May 20 2021</span>
-        </div>
-      </div>
-
-      <div
-        class="bg-purple text-white lg:w-1/2 w-full lg:h-72 h-80 pl-5 m-5 px-5 pt-5 rounded-lg mt-5 my-5  hover:bg-lightpurple hover:text-purple"
-      >
-        <h4 class="text-2xl font-bold text-white mt-5 hover:text-purple">
-          Buddy vs Travis CI: A Detailed Comparison
-        </h4>
-        <p class="mt-6 px-1">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
-          dignissimos aliquam similique animi illum, cum deserunt cupiditate
-          eveniet itaque nesciunt!
-        </p>
-        <div class="flex justify-between lg:mt-20 mt-8">
-          <span>5 min read</span>
-          <span>May 20 2021</span>
-        </div>
-      </div>
-    </div>
-
-    <div class="flex justify-center  ">
-      <div
-        class="bg-purple text-white lg:w-1/2 w-full lg:h-72 h-80 pl-5 m-5 px-5 pt-5 rounded-lg mt-5 my-5  hover:bg-lightpurple hover:text-purple"
-      >
-        <h4 class="text-2xl font-bold text-white mt-5 hover:text-purple">
-          Buddy vs Travis CI: A Detailed Comparison
-        </h4>
-        <p class="mt-6 px-1">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
-          dignissimos aliquam similique animi illum, cum deserunt cupiditate
-          eveniet itaque nesciunt!
-        </p>
-        <div class="flex justify-between lg:mt-20 mt-8">
-          <span>5 min read</span>
-          <span>May 20 2021</span>
-        </div>
-      </div>
-
-      <div
-        class="bg-purple text-white lg:w-1/2 w-full lg:h-72 h-80 pl-5 m-5 px-5 pt-5 rounded-lg mt-5 my-5  hover:bg-lightpurple hover:text-purple"
-      >
-        <h4 class="text-2xl font-bold text-white mt-5 hover:text-purple">
-          Buddy vs Travis CI: A Detailed Comparison
-        </h4>
-        <p class="mt-6 px-1">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
-          dignissimos aliquam similique animi illum, cum deserunt cupiditate
-          eveniet itaque nesciunt!
-        </p>
-        <div class="flex justify-between lg:mt-20 mt-8">
-          <span>5 min read</span>
-          <span>May 20 2021</span>
-        </div>
-      </div>
-    </div>
+  
 
   </div>
-  <Newsletter/>
+ <Newsletter/>
  
 
   </div>
@@ -254,3 +75,9 @@ export default {
     
 };
 </script>
+
+<style  scoped>
+#article{
+  box-shadow: ;
+}
+</style>

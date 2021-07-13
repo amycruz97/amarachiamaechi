@@ -46,7 +46,9 @@ module.exports = {
 
             },
             boxShadow:{
-               
+                '2xl': '0 25px 50px -12px rgba(0, 0, 0, 0.25)',
+               '3xl': '0 35px 60px -15px rgba(0, 0, 0, 0.3)',
+               '4xl': '0 55px 70px -15px rgba(0, 0, 0, 0.3)',
             },
             borderRadius:{
                
