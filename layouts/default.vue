@@ -21,6 +21,10 @@ export default {
 </script>
 
 <style>
+body {
+  /* background-color: #15202b; */
+  background:#0a0a0a;
+}
 html {
   font-family:
     'Source Sans Pro',

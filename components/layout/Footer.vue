@@ -156,7 +156,7 @@
       </a>
     </div>
     <h5 class="text-purple text-xl font-bold">
-      &#169; Amarachi Amaechi 2021
+      &#169; 2021 Designed & coded with  by Amarachi Amaechi (aka Amycruz)
     </h5>
   </footer>
 </template>

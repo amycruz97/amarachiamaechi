@@ -27,7 +27,8 @@ module.exports = {
                 ...theme('colors'),
                 'purple': '#6C00FF',
                 'lightpurple':'#E5D9F6;',
-                'darkblue':'#192734'
+                'darkblue':'#192734',
+                'black-100': '#242424'
 
                 
             }),
