@@ -1,6 +1,8 @@
 <template>
   <section class="lg:px-20 px-10 ">
     <div class="text-center mx-auto mt-20">
+
+
       <h3 class="text-3xl text-white">Hello 👋 ,  my name is</h3>
       <h3 class="text-7xl pb-4 text-purple font-bold mt-10">
         Amarachi Amaechi
@@ -237,6 +239,8 @@ export default {
   },
 
   methods: {
+
+   
     typeText() {
       if (this.charIndex < this.typeArray[this.typeArrayIndex].length) {
         if (!this.typeStatus) this.typeStatus = true;
@@ -272,7 +276,8 @@ export default {
   },
   created() {
     setTimeout(this.typeText, this.newTextDelay + 200);
-  }
+  },
+ 
 };
 </script>
 

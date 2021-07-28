@@ -21,6 +21,8 @@
 
 
 module.exports = {
+    darkMode: 'media',
+    plugins: [require('tailwindcss-dark-mode')()],
     theme: {
         extend: {
             backgroundColor: theme => ({
