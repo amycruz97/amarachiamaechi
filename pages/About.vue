@@ -1,7 +1,7 @@
 <template>
   <div class="">
     <div class="about lg:px-20 px-10 pb-10">
-       <h3 class="text-7xl text-purple font-bold text-center mb-20 mt-10">About Me</h3>
+       <h3 class="lg:text-7xl text-6xl text-purple font-bold text-center mb-20 mt-10">About Me</h3>
 
      <div class="flex  justify-evenly lg:flex-row flex-col ">
          <div class="lg:w-2/5 w-full px-2 pb-10">

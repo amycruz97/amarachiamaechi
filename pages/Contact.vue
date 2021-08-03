@@ -6,11 +6,14 @@
       although in general you will probably reach me quicker on <a href="https://twitter.com/AmarachiAmaechi" class="hover:text-purple">Twitter</a> or <a href="https://www.linkedin.com/in/amaechi-amarachi/" class="hover:text-purple">Linkedin</a>
     </p>
 
-    <form action="" method=”POST” class="mx-auto">
-      <div class=" lg:mx-60 mx-10  ">
+    <form action="https://formsubmit.co/amarachiamaechi4@gmail.com" method="POST" class="mx-auto" target="_blank">
+      <div class=" lg:mx-60 mx-10">
+        <input type="hidden" name="_subject" value="New message from your website">
+        <input type="hidden" name="_captcha" value="false">
         <input
           type="text"
           name="name"
+          v-model="name"
           placeholder="Your Name"
           required
           class="w-full h-12 p-2 rounded border-2 border-transparent  focus:outline-none focus:border-purple"
@@ -20,6 +23,7 @@
         <input
           type="email"
           name="email"
+          v-model="email"
           placeholder="Your Email"
           required
           class="w-full h-12 p-2 rounded border-2 border-transparent  focus:outline-none focus:border-purple"
@@ -27,7 +31,7 @@
       </div>
       <div class=" lg:mx-60 mx-10 mt-5 mb-5">
         <textarea
-          name=""
+          name="message"
           id=""
           cols="30"
           rows="7"
@@ -38,8 +42,25 @@
       </div>
 
       <div class="flex justify-center">
-        <button class="bg-purple w-48  h-12 rounded font-bold  text-white border-2 border-transparent focus:outline-none ">Send Message</button>
+        <button type="submit" class="bg-purple w-48  h-12 rounded font-bold  text-white border-2 border-transparent focus:outline-none">Send Message</button>
       </div>
     </form>
   </div>
 </template>
+
+<script>
+export default {
+  data () {
+        return {
+          
+        
+            
+          
+        }
+      },
+  methods: {
+       
+   }
+}
+
+</script>
