@@ -319,8 +319,6 @@ span.cursor.typing {
 }
 
 @media only screen and (max-width: 600px) {
-  .pics {
-    /* background-color: red; */
-  }
+  
 }
 </style>

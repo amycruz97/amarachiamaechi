@@ -22,12 +22,13 @@ export default {
 
 <style>
 body {
-  /* background-color: #15202b; */
-  background:#0a0a0a;
+  background-color: #15202b;
+  /* background:#0a0a0a; */
   
 }
 html {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto Slab', serif;
   /* font-family:
     'Source Sans Pro',
     -apple-system,
@@ -52,12 +53,5 @@ html {
   box-sizing: border-box;
   margin: 0;
 }
-.dark-mode {
-        @apply text-white ;
-    }
-
-   .light-mode {
-        @apply text-black ;
-    }
 
 </style>

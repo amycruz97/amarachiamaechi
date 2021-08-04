@@ -52,7 +52,7 @@
       <a
         href="https://www.linkedin.com/in/amaechi-amarachi/"
         target="_blank"
-        class="px-1 mr-2"
+        class="px-1 mr-2 "
         title="linkedin"
       >
         <svg
@@ -112,7 +112,7 @@
         
      
     </div>
-    <h5 class="text-purple text-xl font-bold">
+    <h5 class="text-purple text-lg font-bold pt-5">
      <span class="mt-10">&#169;</span>
        2021 Built with  💜  by Amarachi Amaechi (aka Amycruz)
     </h5>
