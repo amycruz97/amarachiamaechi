@@ -1,7 +1,7 @@
 <template>
   <div class="lg:px-20 px-10  m-auto">
   
-    <p class="text-5xl font-bold text-white text-center mt-40">
+    <p class="lg:text-5xl text-xl font-bold text-white text-center mt-40">
      Your message was received, I will be in touch shortly.
 
     </p>

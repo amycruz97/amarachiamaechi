@@ -3,8 +3,8 @@
     <div class="text-center mx-auto mt-20 mb-10">
 
 
-      <h3 class="text-3xl text-white">Hello 👋 ,  my name is</h3>
-      <h3 class="lg:text-7xl text-6xl pb-4 text-purple font-bold mt-10">
+      <h3 class="lg:text-3xl text-2xl text-white">Hello 👋 ,  my name is</h3>
+      <h3 class="lg:text-7xl text-5xl pb-4 text-purple font-bold mt-10">
         Amarachi Amaechi
       </h3>
 
