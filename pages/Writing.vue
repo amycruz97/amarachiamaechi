@@ -24,32 +24,16 @@
 
     <div class="flex lg:flex-row flex-col justify-between lg:px-4 mb-10 mt-10">
      
-     <div class="lg:w-5/12 w-full  shadow-3xl mb-20" id="article">
+     <div class="lg:w-5/12 w-full  shadow-3xl mb-20 border-b-2 border-purple" id="article">
        <img src="@/assets/images/cover.png" alt="">
-       <h3 class="lg:text-4xl text-3xl font-bold  my-10 lg:px-5 px-1 text-center text-white">Getting started with Open Source Contribution</h3>
-       <p class="text-gray-200 lg:px-4 px-3 pb-5" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque doloremque totam sunt ipsam natus, eaque mollitia et nisi, eveniet saepe veritatis debitis! Neque dolorem ab laudantium aliquam, illum fugit delectus repudiandae. Fuga, assumenda reiciendis inventore perspiciatis dolorem ullam maxime magnam, temporibus sit, necessitatibus ad. Consequuntur facilis similique in adipisci voluptas!</p>
+       <h3 class="lg:text-4xl text-2xl font-bold  my-10 lg:px-5 px-1 text-center text-white">Getting started with Open Source Contribution</h3>
+       <p class="text-gray-200 lg:px-4 px-3 pb-5 text-center" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque doloremque totam sunt ipsam natus, eaque mollitia et nisi, eveniet saepe veritatis debitis! Neque dolorem ab laudantium aliquam, illum fugit delectus repudiandae. Fuga, assumenda reiciendis inventore perspiciatis dolorem ullam maxime magnam, temporibus sit, necessitatibus ad. Consequuntur facilis similique in adipisci voluptas!</p>
      </div>
 
-     <div class="lg:w-5/12   shadow-3xl mb-20  " id="article">
+     <div class="lg:w-5/12   shadow-3xl mb-20 border-b-2 border-purple " id="article">
        <img src="@/assets/images/cover.png" alt="">
-       <h3 class="lg:text-4xl text-2xl font-bold  my-10 px-5 text-center text-white">Getting started with Open Source Contribution</h3>
-       <p class="text-gray-200 lg:px-4 px-3 pb-5" >Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt ut, similique atque ad optio temporibus magni doloremque alias consequuntur, tenetur modi repellendus explicabo! Debitis ipsum ullam velit eum, ut recusandae provident ducimus nobis repellat fugit quia, natus labore dolore obcaecati sapiente consectetur aspernatur accusamus nostrum alias quo facere libero inventore.</p>
-     </div>
-     
-    </div>
-
-      <div class="flex lg:flex-row flex-col justify-between lg:px-4 mb-10 mt-10">
-     
-     <div class="lg:w-5/12 w-full  shadow-3xl mb-20 " id="article">
-       <img src="@/assets/images/cover.png" alt="">
-       <h3 class="lg:text-4xl text-3xl font-bold  my-10 lg:px-5 px-1 text-center text-white">Getting started with Open Source Contribution</h3>
-       <p class="text-gray-200 lg:px-4 px-3 pb-5" >Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt ut, similique atque ad optio temporibus magni doloremque alias consequuntur, tenetur modi repellendus explicabo! Debitis ipsum ullam velit eum, ut recusandae provident ducimus nobis repellat fugit quia, natus labore dolore obcaecati sapiente consectetur aspernatur accusamus nostrum alias quo facere libero inventore.</p>
-     </div>
-
-     <div class="lg:w-5/12   shadow-3xl mb-20  " id="article">
-       <img src="@/assets/images/cover.png" alt="">
-       <h3 class="lg:text-4xl text-2xl font-bold  my-10 px-5 text-center text-white">Getting started with Open Source Contribution</h3>
-       <p class="text-gray-200 lg:px-4 px-3 pb-5" >Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt ut, similique atque ad optio temporibus magni doloremque alias consequuntur, tenetur modi repellendus explicabo! Debitis ipsum ullam velit eum, ut recusandae provident ducimus nobis repellat fugit quia, natus labore dolore obcaecati sapiente consectetur aspernatur accusamus nostrum alias quo facere libero inventore.</p>
+       <h3 class="lg:text-4xl text-2xl font-bold  my-10 lg:px-5 text-center text-white">Getting started with Open Source Contribution</h3>
+       <p class="text-gray-200 lg:px-4 px-3 pb-5 text-center" >Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt ut, similique atque ad optio temporibus magni doloremque alias consequuntur, tenetur modi repellendus explicabo! Debitis ipsum ullam velit eum, ut recusandae provident ducimus nobis repellat fugit quia, natus labore dolore obcaecati sapiente consectetur aspernatur accusamus nostrum alias quo facere libero inventore.</p>
      </div>
      
     </div>
