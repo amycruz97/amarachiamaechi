@@ -53,5 +53,11 @@ font-family: 'Roboto Slab', serif;
   box-sizing: border-box;
   margin: 0;
 }
+ .dark-mode {
+        background: black;
+    }
 
+    .light-mode {
+        background: white;
+    }
 </style>

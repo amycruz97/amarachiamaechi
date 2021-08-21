@@ -28,22 +28,24 @@
             <p class="pb-4">
               Hi, I'm Amarachi Amaechi a Front-End Developer who is focused on
               transforming UI designs into code and building applications that
-              are scalable, accesssible & user friendly!
+              are scalable, accessible & user friendly!
             </p>
             <p class="pb-4">
-              I'm extremely passionate about building tools for developer,
-              writing, speaking and building developer communities. I am an
+              I'm extremely passionate about building tools for developers,
+              writing, speaking, and building developer communities. I am an
               international
               <span class="underline hover:text-purple">
                 <NuxtLink to="/Speaking" target="_blank"
-                  >Speaker</NuxtLink
+                  >speaker</NuxtLink
                 > </span
               >, and have spoken at many meet-ups and conferences worldwide.
             </p>
             <p class="pb-4">
               I am an Author, who recently published an ebook
               <a
+
                 href="https://gumroad.com/l/gswtebook"
+                rel="nofollow noopener noreferrer"
                 class="underline hover:text-purple pr-3"
                 >"Getting Started in tech: A guide to building a tech
                 career".</a
@@ -52,11 +54,12 @@
               <span class="underline hover:text-purple">
                 <NuxtLink to="/writing" target="_blank">articles</NuxtLink>
               </span>
-              articles focused on web development and personal development.
+               focused on web development and personal development.
             </p>
             <p class="pb-4">
               I organise
-              <a href="https://twitter.com/VuejsNg">
+              <a href="https://twitter.com/VuejsNg" rel="nofollow noopener noreferrer">
+              
                 <span class="hover:text-purple font-bold underline">
                   Vuejs Nigeria
                 </span>
@@ -355,13 +358,13 @@
           <h3 class="py-4 text-base font-bold">Community Management</h3>
           <p class="mt-5 text-sm">
             I build and manage community in the developer ecosystem such as
-            <a href="https://twitter.com/VuejsNg">
+            <a href="https://twitter.com/VuejsNg" rel="nofollow noopener noreferrer">
               <span class="hover:text-purple font-bold underline">
                 Vuejs Nigeria
               </span>
               &
             </a>
-            <a href="https://t.me/joinchat/scigCJgqwVs1NzI0"
+            <a href="https://t.me/joinchat/scigCJgqwVs1NzI0" rel="nofollow noopener noreferrer"
               ><span class="hover:text-purple font-bold underline"
                 >Bitpowr Technologies Community</span
               >.

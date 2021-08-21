@@ -29,10 +29,10 @@
                 class="w-full  sm:flex sm:items-center sm:w-auto"
             >
                 <div class="text-sm sm:flex-grow" >
-                    <NuxtLink to="/About" class="about block mt-4 sm:inline-block sm:mt-0 text-white text-lg font-bold hover:text-white mr-10 hover:text-purple-700" >About</NuxtLink>
-                    <NuxtLink to="/Speaking" class="speaking block mt-4 sm:inline-block sm:mt-0 text-white text-lg font-bold hover:text-white mr-10  hover:text-purple-700">Speaking</NuxtLink>
-                    <NuxtLink to="/Writing" class="blog block mt-4 sm:inline-block sm:mt-0 text-white text-lg font-bold hover:text-white mr-10  hover:text-purple-700">Writing</NuxtLink>
-                    <NuxtLink to="/Contact" class="contact block mt-4 sm:inline-block sm:mt-0 text-white text-lg font-bold hover:text-white mr-10  hover:text-purple-700">Contact</NuxtLink>
+                    <NuxtLink to="/About" class="about block mt-4 sm:inline-block sm:mt-0 text-white text-lg font-bold hover:text-white mr-10 hover:text-purple-700 border-transparent border-b-2 hover:border-purple" >About</NuxtLink>
+                    <NuxtLink to="/Speaking" class="speaking block mt-4 sm:inline-block sm:mt-0 text-white text-lg font-bold hover:text-white mr-10  hover:text-purple-700  border-transparent border-b-2 hover:border-purple">Speaking</NuxtLink>
+                    <NuxtLink to="/blog" class="blog block mt-4 sm:inline-block sm:mt-0 text-white text-lg font-bold hover:text-white mr-10  hover:text-purple-700 border-transparent border-b-2 hover:border-purple">Writing</NuxtLink>
+                    <NuxtLink to="/Contact" class="contact block mt-4 sm:inline-block sm:mt-0 text-white text-lg font-bold hover:text-white mr-10  hover:text-purple-700 border-transparent border-b-2 hover:border-purple">Contact</NuxtLink>
                 </div>  
             </div>
 

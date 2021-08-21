@@ -25,6 +25,7 @@ module.exports = {
     plugins: [require('tailwindcss-dark-mode')()],
     theme: {
         extend: {
+          
             backgroundColor: theme => ({
                 ...theme('colors'),
                 'purple': '#6C00FF',

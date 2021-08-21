@@ -7,12 +7,14 @@
       <p class="text-white text-center text-lg ">
         Want me to speak at your event? Reach out to me via
         <a
+        rel="nofollow noopener noreferrer"
           href="mailto:amarachiamaechi4@gail.com"
           class="hover:text-purple font-bold "
           >email</a
         >
         or
         <a
+        rel="nofollow noopener noreferrer"
           href="https://twitter.com/AmarachiAmaechi"
           class="hover:text-purple font-bold "
           >twitter</a
@@ -28,7 +30,7 @@
           v-for="past in speaking.past.slice().reverse()"
           :key="past.id"
         >
-          <a :href="past.link" target="blank">
+          <a :href="past.link" target="blank" rel="nofollow noopener noreferrer">
             <p class="pt-5">{{ past.date }}</p>
             <p class="font-bold  lg:text-3xl text-lg py-4">
               {{ past.title }}

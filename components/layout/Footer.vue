@@ -1,7 +1,7 @@
 <template>
   <footer class="my-20 text-center">
     <div class="flex justify-center items-center py-4">
-       <a href="mailto:amarachiamaechi4@gmail.com" target="_blank" class="px-1 mr-2" title="email">
+       <a href="mailto:amarachiamaechi4@gmail.com" rel="nofollow noopener noreferrer" target="_blank" class="px-1 mr-2" title="email">
         <svg
           width="50"
           height="49"
@@ -51,6 +51,7 @@
       
       <a
         href="https://www.linkedin.com/in/amaechi-amarachi/"
+        rel="nofollow noopener noreferrer"
         target="_blank"
         class="px-1 mr-2 "
         title="linkedin"
@@ -71,6 +72,7 @@
 
       <a
         href="https://twitter.com/AmarachiAmaechi"
+        rel="nofollow noopener noreferrer"
         target="_blank"
         class="px-1 mr-2"
         title="twitter"
@@ -91,6 +93,7 @@
      
       <a
         href="https://www.instagram.com/amycruz_97/"
+        rel="nofollow noopener noreferrer"
         target="_blank"
         class="px-1 mr-2"
         title="instagram"

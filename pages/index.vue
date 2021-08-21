@@ -23,12 +23,12 @@
         <button
           class="border-2 border-purple  w-60 h-12 text-white rounded-lg focus:outline-none lg:mr-10 mr-0 mb-5"
         >
-        <a href="mailto:amarachiamaechi4@gmail.com" target="_blank">Get In Touch</a>
+        <a href="mailto:amarachiamaechi4@gmail.com" rel="nofollow noopener noreferrer" target="_blank">Get In Touch</a>
           
         </button>
 
         <a
-          href="https://drive.google.com/file/d/1COP3hTZ5XT6bwqP32_oZ_shBpkC9O3WG/view?usp=sharing"
+          href="https://drive.google.com/file/d/1COP3hTZ5XT6bwqP32_oZ_shBpkC9O3WG/view?usp=sharing" rel="nofollow noopener noreferrer"
           target="_blank"
         >
           <button
@@ -40,7 +40,7 @@
       </div>
 
       <div class="flex mx-auto justify-center items-center my-20">
-    <a href="https://github.com/amycruz97" target="_blank" class="px-2" title="github">
+    <a href="https://github.com/amycruz97" rel="nofollow noopener noreferrer" target="_blank" class="px-2" title="github">
         <svg
           width="49"
           height="49"
@@ -108,6 +108,7 @@
       </a>
            <a
         href="https://www.linkedin.com/in/amaechi-amarachi/"
+        rel="nofollow noopener noreferrer"
         target="_blank"
         class="px-2"
         title="linkedin"
@@ -237,6 +238,8 @@ export default {
       charIndex: 0
     };
   },
+
+  
 
   methods: {
 
