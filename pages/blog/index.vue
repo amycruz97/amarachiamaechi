@@ -78,21 +78,14 @@ export default {
     },
 
      async asyncData({ $content, params }) {
-      const articles = await $content('articles')
-        // .only(['title', 'description', 'img', 'slug', 'author'])
-        // .sortBy('createdAt', 'asc')
-        // .fetch()
-
-        .where({ published: { $ne: false } })
-        .sortBy('date', 'desc')
-        .fetch()
-
-        console.log(articles[0].body)
-
-      return {
-        articles
-      }
-    },
+     const articles = await $content("articles")
+      .only(["title", "description", "img", "slug", "author"])
+      .sortBy("createdAt", "asc")
+      .fetch()
+    return {
+      articles
+    };
+  }
     
 };
 </script>

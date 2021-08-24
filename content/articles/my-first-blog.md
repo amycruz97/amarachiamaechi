@@ -1,10 +1,10 @@
 
 ---
 title: My first Blog Post
-<!-- description: Learning how to use @nuxt/content to create a blog
+description: Learning how to use @nuxt/content to create a blog
 img: first-blog-post.jpgnote
 
-alt: my first blog postiiidne -->
+alt: my first blog postiiidne 
 
 
 
