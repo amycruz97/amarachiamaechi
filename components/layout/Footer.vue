@@ -115,7 +115,7 @@
         
      
     </div>
-    <h5 class="text-purple lg:text-lg text-sm font-bold pt-5">
+    <h5 class="text-purple text-base font-bold pt-5">
      <span class="mt-10">&#169;</span>
        2021 Built with  💜  by Amarachi Amaechi (aka Amycruz)
     </h5>

@@ -1,6 +1,6 @@
 <template>
   <section class="lg:px-20 px-10 ">
-    <div class="text-center mx-auto mt-20 mb-10">
+    <div class="text-center lg:mt-28 mt-16 mb-10">
 
 
       <h3 class="lg:text-3xl text-2xl text-white">Hello 👋 ,  my name is</h3>
@@ -128,90 +128,7 @@
       </a>
       </div>
     </div>
-    <!--     
-    <div
-      class="flex lg:flex-row flex-col-reverse justify-between  lg:pt-14 lg:pb-5 lg:px-20 px-10  "
-    >
-      <div class="py-10 lg:w-3/4 w-full pr-40 bg-red-400">
-        <h3 class="text-5xl pb-4 text-white font-bold">Hello!  I am Amarachi Amaechi</h3>
-     
-       
-<h4>
-  
-  <span class="typed-text text-4xl my-5 text-purple font-semibold">{{ typeValue }}</span>
-      <span class="cursor" :class="{'typing': typeStatus}">&nbsp;</span>
-</h4>
-  <p class="text-sm  text-purple mt-10">
-          Front-End Developer | UX Enthusiast | Technical Writer | Community Expert
-        </p> 
-
-        <p class=" text-white  text-lg pt-5 pb-5   ">
-
-           I am a Front-End Developer that is focused on  transforming UI designs into code and building applications that are scalable, accesssible & user friendly!     
-         I'm extremely passionate about building tools for developer, writing, speaking and building developer communities.
-        </p>
-       
-       
-        
-      </div>
-      <div class="lg:w-2/6 w-full  bg-red-200">
-        <img
-          src="@/assets/images/amy.jpeg"
-          alt="my pics"
-          class="pics h-80 w-80 mt-3 rounded-full border-dotted border-purple border-4 m-auto "
-        />
-      </div>
-    </div> -->
-
-   
-
-    <!-- <div class="bg-darkblue py-10 mb-20 flex justify-between lg:flex-row flex-col lg:px-20 px-10">
-      <div class="lg:w-1/4">
-        <h4 class="text-4xl text-bold pb-2 text-purple">I write stuffs</h4>
-        <p>Frontend development, <br> Technical Writing,<br> community building,<br> and personal branding.</p>
-        <button class="flex read-article px-2 py-3 border w-60 my-4 ">
-          <NuxtLink to="/Writing" class="pr-3 pt-1">READ MY ARTICLES</NuxtLink>
-          <svg
-            width="55"
-            height="31"
-            viewBox="0 0 55 31"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M0 13.3027L0 17.7313L46.6074 17.7313L36.3706 27.9681L39.4366 31L54.9195 15.517L39.4366 0L36.3706 3.1L46.6074 13.3027L0 13.3027Z"
-              fill=""
-            />
-          </svg>
-        </button>
-      </div>
-
-      <div class="vertical-line border my-10">
-
-      </div>
-
-      <div class="lg:w-1/4">
-        <h4 class="text-4xl text-bold pb-2 text-purple">I build stuffs</h4>
-        <p>Frontend development, <br> Technical Writing,<br> community building,<br> and personal branding.</p>
-        <button class="flex read-article px-2 py-3 border w-60 my-4 ">
-          <a href="https://github.com/amycruz97/" class="pr-3 pt-1 ">SEE MY WORK</a>
-         
-          <svg
-            width="55"
-            height="31"
-            viewBox="0 0 55 31"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M0 13.3027L0 17.7313L46.6074 17.7313L36.3706 27.9681L39.4366 31L54.9195 15.517L39.4366 0L36.3706 3.1L46.6074 13.3027L0 13.3027Z"
-              fill=""
-            />
-          </svg>
-        </button>
-      </div>
-    </div> -->
-
+ 
   
 
     <!-- <Newsletter/> -->

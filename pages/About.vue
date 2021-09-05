@@ -24,7 +24,7 @@
         </div>
 
         <div class="lg:w-3/4 w-full">
-          <div class="text-white lg:text-xl text-xl pb-5 lg:pr-4 pr-1">
+          <div class="text-white lg:text-xl text-xl pb-5 lg:pr-4 pr-1 ">
             <p class="pb-4">
               Hi, I'm Amarachi Amaechi a Front-End Developer who is focused on
               transforming UI designs into code and building applications that
@@ -52,7 +52,7 @@
               >
               I write
               <span class="underline hover:text-purple">
-                <NuxtLink to="/writing" target="_blank">articles</NuxtLink>
+                <NuxtLink to="/blog" target="_blank">articles</NuxtLink>
               </span>
                focused on web development and personal development.
             </p>
