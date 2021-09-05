@@ -1,5 +1,5 @@
 <template>
-  <article class="text-white p-5 mx-auto pt-20 lg:w-3/5">
+  <article class="text-white p-5 mx-auto pt-10 lg:w-3/5">
     
 
     <img
