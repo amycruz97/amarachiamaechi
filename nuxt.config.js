@@ -8,9 +8,9 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { name: 'og:description', content: 'Amarachi Amaechi website' },
-      { name: 'og:image', href: '/icon.png' },
-      { hid: 'description', name: 'description', content: 'Amarachi Amaechi website' }
+      { hid: 'description', name: 'description', content: 'Amarachi Amaechi website' },
+      {hid: 'description', name: 'image', href: '/icon.png' },
+      { hid: 'og:description', name: 'og:description', content: 'Amarachi Amaechi website' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
