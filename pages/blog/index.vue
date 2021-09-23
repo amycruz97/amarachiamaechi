@@ -39,7 +39,12 @@
         >
           <NuxtLink :to="{ name: 'blog-slug', params: { slug: article.slug } }">
             <div id="article">
-              <img :src="`/images/covers/${article.img}`" />
+              <!-- <img :src="`/images/covers/${article.img}`" /> -->
+              <img
+      :src="article.img"
+      :alt="article.alt"
+      class="mx-auto"
+    />
             </div>
 
             <div class="p-4">

@@ -2,8 +2,14 @@
   <article class="text-white p-5 mx-auto pt-10 lg:w-3/5">
     
 
-    <img
+    <!-- <img
       :src="`/images/covers/${article.img}`"
+      :alt="article.alt"
+      class="mx-auto"
+    /> -->
+
+    <img
+      :src="article.img"
       :alt="article.alt"
       class="mx-auto"
     />

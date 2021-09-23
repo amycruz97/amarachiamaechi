@@ -1,7 +1,7 @@
 ---
 title: Getting Started with Markdown
 description: In this post, I will be writing a beginner guide to markdowm syntax
-img: cover.png
+img: https://res.cloudinary.com/amycruz/image/upload/v1632426377/markdown.png
 
 alt: Getting Started with Markdown
 ---

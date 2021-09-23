@@ -1,7 +1,7 @@
 ---
 title: How I Transitioned From an Accounting Student to a Front-End Developer
 description: In this post, I will be writing about my transition into the tech field, how I landed my first Web developer job, resources, tips.
-img: cover.png
+img: https://res.cloudinary.com/amycruz/image/upload/v1632426508/transition.png
 alt: my first blog post
 ---
 
