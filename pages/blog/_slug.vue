@@ -15,8 +15,8 @@
     />
     <h1 class="text-white lg:text-3xl text-xl text-center py-10">{{ article.title }}</h1>
 
-    <div class="flex justify-center text-center lg:text-xl font-bold my-8">
-      <p>{{ formatDate(article.updatedAt) }}</p>
+    <div class="flex justify-center text-center lg:text-lg text-sm font-bold my-8">
+      <p class="">{{ formatDate(article.updatedAt) }}</p>
       <span class="px-10">⏱ 5mins read</span>
     </div>
 
