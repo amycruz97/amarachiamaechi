@@ -249,7 +249,7 @@
 
           <h3 class="py-4 text-xl font-bold">Website Development</h3>
           <p class="mt-5 text-sm">
-            I transforming UI designs into code and building applications that
+            I transform UI designs into code and building applications that
             are scalable, accesssible & user friendly
           </p>
         </div>
