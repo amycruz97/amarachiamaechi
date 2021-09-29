@@ -65,8 +65,8 @@ font-family: 'Roboto Slab', serif;
  /* .dark-mode {
         background: black;
     } */
-
+/* 
     .light-mode {
         background: white;
-    }
+    } */
 </style>
