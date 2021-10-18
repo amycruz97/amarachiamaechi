@@ -54,7 +54,7 @@
               <span class="underline hover:text-purple">
                 <NuxtLink to="/blog" target="_blank">articles</NuxtLink>
               </span>
-               focused on web development, Blockhain technologies and personal development.
+               focused on web development, Blockchain technologies and personal development.
             </p>
             <p class="pb-4">
               I organise
