@@ -71,7 +71,7 @@
       </a>
 
       <a
-        href="https://twitter.com/AmarachiAmaechi"
+        href="https://twitter.com/Amycruz0x"
         rel="nofollow noopener noreferrer"
         target="_blank"
         class="px-1 mr-2"
