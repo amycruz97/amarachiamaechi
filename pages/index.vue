@@ -88,7 +88,7 @@
         </svg>
       </a>
         <a
-        href="https://twitter.com/AmarachiAmaechi"
+        href="https://twitter.com/Amycruz0x"
         target="_blank"
         class="px-2"
         title="twitter"

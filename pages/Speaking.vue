@@ -15,7 +15,7 @@
         or
         <a
         rel="nofollow noopener noreferrer"
-          href="https://twitter.com/AmarachiAmaechi"
+          href="https://twitter.com/Amycruz0x"
           class="hover:text-purple font-bold "
           >twitter</a
         >

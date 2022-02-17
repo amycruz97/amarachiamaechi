@@ -22,7 +22,7 @@ She transitioned into tech while in school, and over the years, she has been hel
 
 Email: amarachiamaechi4@gmail.com
 
-Twitter: [AmarachiAmaechi](https://twitter.com/AmarachiAmaechi)
+Twitter: [AmarachiAmaechi](https://twitter.com/Amycruz0x)
 
 Linkedin: [Amarachi Amaechi](https://www.linkedin.com/in/amaechi-amarachi/)
 
