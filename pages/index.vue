@@ -26,11 +26,6 @@
         <a href="mailto:amarachiamaechi4@gmail.com" rel="nofollow noopener noreferrer" target="_blank">Get In Touch</a>
           
         </button>
-
-        <a
-          href="https://drive.google.com/file/d/1avxthJmsGgpx268O1AFGRSkMD0XhoYNH/view?usp=sharing" rel="nofollow noopener noreferrer"
-          target="_blank"
-        >
           <button
             class="border-2 border-purple  w-60 h-12 text-white rounded-lg focus:outline-none"
           >
