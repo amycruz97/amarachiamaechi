@@ -23,7 +23,7 @@
         <button
           class="border-2 border-purple  w-60 h-12 text-white rounded-lg focus:outline-none lg:mr-10 mr-0 mb-5"
         >
-        <a href="mailto:amarachiamaechi44@gmail.com" rel="nofollow noopener noreferrer" target="_blank">Get In Touch</a>
+        <a href="mailto:" rel="nofollow noopener noreferrer" target="_blank">Get In Touch</a>
           
         </button>
           <button
