@@ -6,7 +6,7 @@
       although in general you will probably reach me quicker on <a href="https://twitter.com/AmarachiAmaechi" class="hover:text-purple">Twitter</a> or <a href="https://www.linkedin.com/in/amaechi-amarachi/" class="hover:text-purple">Linkedin</a>
     </p>
 
-    <form action="https://formsubmit.co/amarachiamaechi4@gmail.com" method="POST" class="mx-auto" @submit="submit">
+    <form action="https://formsubmit.co/amarachiamaechi44@gmail.com" method="POST" class="mx-auto" @submit="submit">
       <div class=" lg:mx-60 mx-10">
         <input type="hidden" name="_subject" value="New message from your website">
         <input type="hidden" name="_captcha" value="false">
