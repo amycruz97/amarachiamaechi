@@ -3,7 +3,7 @@
     <div class="text-center lg:mt-28 mt-16 mb-10">
 
 
-      <h3 class="lg:text-3xl text-2xl text-white">Hello 👋 ,  my name is</h3>
+      <h3 class="lg:text-3xl text-2xl text-white">Hello  ,  my name is</h3>
       <h3 class="lg:text-7xl text-5xl pb-4 text-purple font-bold mt-10">
         Amarachi Amaechi
       </h3>
@@ -23,7 +23,7 @@
         <button
           class="border-2 border-purple  w-60 h-12 text-white rounded-lg focus:outline-none lg:mr-10 mr-0 mb-5"
         >
-        <a href="mailto:amarachiamaechi4@gmail.com" rel="nofollow noopener noreferrer" target="_blank">Get In Touch</a>
+        <a href="mailto:amarachiamaechi44@gmail.com" rel="nofollow noopener noreferrer" target="_blank">Get In Touch</a>
           
         </button>
           <button
